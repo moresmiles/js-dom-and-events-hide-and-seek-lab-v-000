@@ -22,4 +22,4 @@ function deepestChild(){
   let deepestChild = nodes[nodes.length- 1];
 
   return deepestChild;
-}
+};
